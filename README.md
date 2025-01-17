@@ -7,11 +7,27 @@ Currently, I'm studing aerospace engineering and it's amazing.
 I program a lot, mostly in python but also in C.
 J'aspire à devenir ingénieur en recherche et développement sur des enjeux fondamentaux.
 
-See more about me on my Linkdin.
+See more about me on my [Linkdin](linkedin.com/in/arthur-oudeyer-56b795347).
 
 ### My projects :
-+ WIP 
-+ WIP
++ **Intelligence Artificielle** : 
+    + [Cellular Evolution]() a game-of-life like with species and genetic evolution ([Video](https://youtu.be/scTMij-t5qM?si=oxr-8ZQLQCNFJy-W))
+    + [IA Walk Learn]() based on my *flow* engin, a body try to walk and evolve ([Video](https://youtu.be/ZsRW8K_1e3M?si=l0sip7GCNoOB2keD))
+    + [Paper Airplane Trajectory Prediction]() : Multi-Layer-Perceptron predict trajectories. Visual Computation to extract trajectory from videos.
++ **Moteur Physique** :
+  + [Flow]() a 2D particle-based physic engine ([Video](https://www.youtube.com/watch?v=sULbugrldyQ))
+  + [Gravity]() a celestial simulation.
++ **Biology and Physic** :
+  + [Ants : Simulation]() ([Video](https://youtu.be/hy7VarhVZ08?si=_Vn08h6n_Vnn-umb))
+  + [Underwater : Shoal of Fish]() ([Video](https://youtu.be/cxvNE3-Js0k))
+  + [Map Generator]() using Constraint-Satisfaction Algorithm. ([Video](https://youtu.be/9tTkk0wHrWs?si=V1EuOSLu_9yeD-8W))
+  + [Gaz Simulator]() a particle model, with customs interactions depending on the particle type.
++ **Games** :
+  + Arcade Games : [Space Frontier](), [Sky Fighter](), [FPS Jet : Pseudo 3D game]() ([Video](https://youtu.be/d2a_13CYoH8?si=6Skaexxc9yxy1TvK)), [Grabby]()
+  + Platformers : [Mission Impossible](), [Platformer](), [Underground](), [MissionZ]()
++ **Image** :
+  + [IMG Fourier Compressor]() : compress images into fourier coefficients (DFT).
+  + [Vibes]() weird color things happening.
 
 ### My stuff :
 + [Youtube : Channel Pro](https://www.youtube.com/@arthuroudeyer9285)
