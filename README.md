@@ -11,4 +11,4 @@ See more about me on my Linkdin.
 J'aspire à devenir ingénieur en recherche et développement sur des enjeux fondamentaux.
 
 ### Contact me :
-+ [arthur.oudeyerpro@gmail.com](arthur.oudeyerpro@gmail.com)
++ [arthur.oudeyerpro@gmail.com](mailto:arthur.oudeyerpro@gmail.com)
