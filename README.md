@@ -15,7 +15,7 @@ See more about me on my [Linkdin](linkedin.com/in/arthur-oudeyer-56b795347).
     + [IA Walk Learn](https://github.com/Arthur1459/Sandbox/tree/IA_WalkEvolution/IAwalkV1) based on my *flow* engin, a body try to walk and evolve ([Video](https://youtu.be/ZsRW8K_1e3M?si=l0sip7GCNoOB2keD))
     + [Paper Airplane Trajectory Prediction]() : Multi-Layer-Perceptron predict trajectories. Visual Computation to extract trajectory from videos.
 + **Moteur Physique** :
-  + [Flow](https://github.com/Arthur1459/Sandbox/tree/2DPhysicEngine_Flow/Flow) a 2D particle-based physic engine ([Video](https://www.youtube.com/watch?v=sULbugrldyQ))
+  + [Flow](https://github.com/Arthur1459/Sandbox/tree/2DPhysicEngine_Flow/Flow) a 2D particle-based physic engine ([Best Video !](https://www.youtube.com/watch?v=sULbugrldyQ))
   + [Gravity](https://github.com/Arthur1459/Sandbox/tree/Gravity/Gravity) a celestial simulation.
 + **Biology and Physic** :
   + [Ants : Simulation]() ([Video](https://youtu.be/hy7VarhVZ08?si=_Vn08h6n_Vnn-umb))
