@@ -10,7 +10,8 @@ I wish to become an R&D ingeneer on fundamental issues.
 See more about me on my [Linkdin](linkedin.com/in/arthur-oudeyer-56b795347).
 
 ### My projects :
-+ **Intelligence Artificielle** : 
++ **Intelligence Artificielle** :
+    + [Life Engine - Hestia](https://github.com/Arthur1459/Hestia-LifeEngine) : Creatures natural selection, neural networks, mutations. ([Video](https://www.youtube.com/watch?v=lEb7CYoWC1o))   
     + [Cellular Evolution](https://github.com/Arthur1459/Sandbox/tree/Cellular_Evolution/CellularEvolution) a game-of-life like with species and genetic evolution ([Video](https://youtu.be/scTMij-t5qM?si=oxr-8ZQLQCNFJy-W))
     + [IA Walk Learn](https://github.com/Arthur1459/Sandbox/tree/IA_WalkEvolution/IAwalkV1) based on my *flow* engin, a body try to walk and evolve ([Video](https://youtu.be/ZsRW8K_1e3M?si=l0sip7GCNoOB2keD))
     + [Paper Airplane Trajectory Prediction]() : Multi-Layer-Perceptron predict trajectories. Visual Computation to extract trajectory from videos.
