@@ -8,6 +8,7 @@ I program a lot, mostly in python but also in C.
 I wish to become an R&D ingeneer on fundamental issues.
 
 See more about me on my [Linkdin](linkedin.com/in/arthur-oudeyer-56b795347).
+Or on my [Website](https://arthur-oudeyer---projects.webnode.fr)
 
 ### My projects :
 + **Intelligence Artificielle** :
