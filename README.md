@@ -1,6 +1,6 @@
 ## Welcome to my Profile ! 🚀
 
-### Who am I ? 🤷‍
+### Who am I ? 🤷‍ -> [CV](CV_2025_ARTHUR_OUDEYER.pdf)
 
 My name is Arthur Oudeyer and I am a big fan of science.
 Currently, I'm studing aerospace engineering and it's amazing.
