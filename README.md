@@ -25,6 +25,7 @@ Or on my [Website](https://arthur-oudeyer---projects.webnode.fr)
   + [Map Generator]() using Constraint-Satisfaction Algorithm. ([Video](https://youtu.be/9tTkk0wHrWs?si=V1EuOSLu_9yeD-8W))
   + [Gaz Simulator](https://github.com/Arthur1459/GazSimulator) a particle model, with customs interactions depending on the particle type.
 + **Games** :
+  + Race : [Mini Racer]() ([Video](https://www.youtube.com/watch?v=rQ-9AMWwzVc))
   + Arcade Games : [Space Frontier](), [Sky Fighter](https://github.com/Arthur1459/SkyFighter), [FPS Jet : Pseudo 3D game]() ([Video](https://youtu.be/d2a_13CYoH8?si=6Skaexxc9yxy1TvK)), [Grabby]()
   + Platformers : [Mission Impossible](), [Platformer](), [Underground](), [MissionZ](https://github.com/Arthur1459/MissionZ)
 + **Image** :
