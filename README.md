@@ -12,10 +12,10 @@ Or on my [Website](https://arthur-oudeyer---projects.webnode.fr)
 
 ### My projects :
 + **Intelligence Artificielle** :
+    + [Paper Airplane Trajectory Prediction](https://github.com/Arthur1459/trajectory-prediction-ai-vs-physics) : Research project on paper airplane trajectory prediction which aims to compare physical model approach to AI model. Multi-Layer-Perceptron predict trajectories. Visual Computation to extract trajectory from videos.
     + [Life Engine - Hestia](https://github.com/Arthur1459/Hestia-LifeEngine) : Creatures natural selection, neural networks, mutations. ([Video](https://www.youtube.com/watch?v=lEb7CYoWC1o))   
     + [Cellular Evolution](https://github.com/Arthur1459/Sandbox/tree/Cellular_Evolution/CellularEvolution) a game-of-life like with species and genetic evolution ([Video](https://youtu.be/scTMij-t5qM?si=oxr-8ZQLQCNFJy-W))
     + [IA Walk Learn](https://github.com/Arthur1459/Sandbox/tree/IA_WalkEvolution/IAwalkV1) based on my *flow* engin, a body try to walk and evolve ([Video](https://youtu.be/ZsRW8K_1e3M?si=l0sip7GCNoOB2keD))
-    + [Paper Airplane Trajectory Prediction]() : Multi-Layer-Perceptron predict trajectories. Visual Computation to extract trajectory from videos.
 + **Moteur Physique** :
   + [Flow](https://github.com/Arthur1459/Sandbox/tree/2DPhysicEngine_Flow/Flow) a 2D particle-based physic engine ([Best Video !](https://www.youtube.com/watch?v=sULbugrldyQ))
   + [Gravity](https://github.com/Arthur1459/Sandbox/tree/Gravity/Gravity) a celestial simulation.
