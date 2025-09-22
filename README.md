@@ -3,9 +3,8 @@
 ### Who am I ? 🤷‍ -> [[CV]](CV_2025_ARTHUR_OUDEYER.pdf)
 
 My name is Arthur Oudeyer and I am a big fan of science.
-Currently, I'm studing aerospace engineering and it's amazing.
-I program a lot, mostly in python but also in C.
-I wish to become an R&D ingeneer on fundamental issues.
+I am interested in aerospace, computer science, and understanding physical and biological phenomena. 
+I am moving towards scientific research or engineering on cutting-edge topics.
 
 See more about me on my [Linkdin](https://www.linkedin.com/in/arthur-oudeyer/).
 Or on my [Website](https://arthur-oudeyer---projects.webnode.fr)
