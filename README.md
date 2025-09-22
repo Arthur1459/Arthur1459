@@ -1,6 +1,6 @@
 ## Welcome to my Profile ! 🚀
 
-### Who am I ? 🤷‍ -> [[CV]](CV_2025_ARTHUR_OUDEYER.pdf)
+### Who am I ? 🤷‍ -> [[CV ENG]](CV_2025_ARTHUR_OUDEYER_EN.pdf)[[CV FR]](CV_2025_ARTHUR_OUDEYER_FR.pdf)
 
 My name is Arthur Oudeyer and I am a big fan of science.
 I am interested in aerospace, computer science, and understanding physical and biological phenomena. 
