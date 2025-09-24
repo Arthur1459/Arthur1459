@@ -1,6 +1,6 @@
 ## Welcome to my Profile ! 🚀
 
-### Who am I ? 🤷‍ -> [[CV ENG]](https://github.com/Arthur1459/Arthur1459/blob/master/CV_ARTHUR_OUDEYER_EN.pdf)[[CV FR]](https://github.com/Arthur1459/Arthur1459/blob/master/CV_ARTHUR_OUDEYER_FR.pdf) **(Download the file for the hyperlinks !)**
+### Who am I ? 🤷‍ -> [[CV ENG]](https://github.com/Arthur1459/Arthur1459/blob/master/CV_ARTHUR_OUDEYER_EN.pdf)[[CV FR]](https://github.com/Arthur1459/Arthur1459/blob/master/CV_ARTHUR_OUDEYER_FR.pdf) *(Download the file for the hyperlinks !)*
 
 My name is Arthur Oudeyer and I am a big fan of science.
 I am interested in aerospace, computer science, and understanding physical and biological phenomena. 
